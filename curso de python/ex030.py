@@ -1,0 +1,1 @@
+num = int(input('digite um numero inteiro pra saber se ele e par ou impar'))
